@@ -4,3 +4,5 @@
 * 1주차 (2021.06.21~27) - Tensorflow 기초 및 YAMNet 모델 활용
 
 * 2주차 (2021.06.28~07.04) - Tensorflow Lite와 Android Application의 연동
+
+* 3주차 (07.05~11) - TF Lite Support Library의 AudioClassfier 이해하기, Model 구성을 위한 Metadata 작성 튜토리얼 숙지 & 간단한 Kotlin 공부
