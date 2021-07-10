@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtUserName"
+        android:layout_marginTop="1dp"
+        android:hint="이름"
+        android:textSize="18sp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtUserMajor"
+        android:layout_marginTop="1dp"
+        android:hint="학과"
+        android:textSize="18sp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtUserID"
+        android:layout_marginTop="1dp"
+        android:hint="학번"
+        android:textSize="18sp"/>
+
+    <Button
+        android:layout_width="82dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/Login"
+        android:layout_marginTop="1dp"
+        android:layout_gravity="center"
+        android:text="로그인"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/URL"
+        android:layout_marginTop="1dp"
+        android:hint="URL"
+        android:enabled="false"
+        android:textSize="18sp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/accessWeb"
+        android:layout_marginTop="1dp"
+        android:text="웹 접속"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/phoneNumber"
+        android:layout_marginTop="1dp"
+        android:hint="Phone"
+        android:enabled="false"
+        android:textSize="18sp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/phoneCall"
+        android:layout_marginTop="1dp"
+        android:text="전화 연결"/>
+
+</LinearLayout>
