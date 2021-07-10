@@ -5,4 +5,6 @@
 
 * 2주차 (2021.06.28~07.04) - Tensorflow Lite와 Android Application의 연동
 
-* 3주차 (07.05~11) - TF Lite Support Library의 AudioClassfier 이해하기, Model 구성을 위한 Metadata 작성 튜토리얼 숙지 & 간단한 Kotlin 공부
+* 3주차 (07.05~11) - TF Lite Support Library의 AudioClassfier 이해하기, Model 구성을 위한 Metadata 작성 튜토리얼 숙지 & 간단한 Kotlin 공부 / Coursera Machine Learning 강의 듣기
+
+* 4주차 (07.12~18) - Android에서 필요한 Sound Categories만 사용하는 방법 이해 / Coursera Machine Learning 강의 듣기 & Kotlin 공부
