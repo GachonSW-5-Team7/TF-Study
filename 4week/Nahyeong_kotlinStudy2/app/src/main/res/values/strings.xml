@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">201835413_김나형</string>
+    <string name="mon">Monday</string>
+    <string name="tue">Tuesday</string>
+    <string name="wed">Wednesday</string>
+    <string name="thu">Thursday</string>
+    <string name="fri">Friday</string>
+    <string name="ds">데이터 과학</string>
+    <string name="mp">모바일 프로그래밍</string>
+    <string name="se">소프트웨어공학</string>
+    <string name="ba">경영학원론</string>
+    <string name="ss">소프트웨어산업세미나</string>
+    <string name="gp">졸업작품 1</string>
+    <string name="main">메인</string>
+    <string name="menu">메뉴</string>
+    <string name="list">ListView Fragment</string>
+    <string name="spinner">Spinner Fragment</string>
+    <string name="announce">(이)가 선택되었습니다.</string>
+</resources>
