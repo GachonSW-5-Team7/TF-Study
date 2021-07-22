@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<resources>
+
+    <string name="app_name">Assignment3_kotlin</string>
+    <string name="btn_main">메인</string>
+    <string name="btn_menu">메뉴</string>
+
+    <!--Days fof ListVew Fragment-->
+    <string name="ListView_Fragment">ListView Fragment</string>
+    <string-array name="days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+
+    <!--Courses for Spinner Fragment-->
+    <string name="Spinner_Fragment">Spinner Fragment</string>
+    <string-array name="array_subjects">
+        <item>데이터과학</item>
+        <item>모바일 프로그래밍</item>
+        <item>소프트웨어공학</item>
+        <item>경영학원론</item>
+        <item>소프트웨어산업세미나</item>
+        <item>졸업작품 1</item>
+    </string-array>
+
+</resources>
