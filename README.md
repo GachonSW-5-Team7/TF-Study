@@ -12,3 +12,5 @@
 * 4주차 (07.12~22) - Android에서 필요한 Sound Categories만 사용하는 방법 이해 / Coursera Machine Learning 강의 듣기 & Kotlin 공부
 
 * 5주차 (07.23~29) - Kotlin 공부 및 Coursera Machine Learning 강의 듣기
+
+* 6주차 (07.30~08.05) - Coursera Machine Learning 강의 듣기 및 Programmers 코딩테스트 문제풀기
